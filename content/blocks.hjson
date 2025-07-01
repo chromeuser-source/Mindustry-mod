@@ -9,7 +9,6 @@
     range: 120
     inaccuracy: 2
     rotateSpeed: 10
-    shootSound: "insanity-whisper"
     requirements: [
       [copper, 40]
       [lead, 30]
