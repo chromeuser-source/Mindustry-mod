@@ -17,5 +17,6 @@
     ammo: {
       copper: basic
     }
+    category: turrets
   }
 ]
