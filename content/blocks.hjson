@@ -1,0 +1,21 @@
+[
+  {
+    name: "whisper-turret"
+    type: turret
+    description: "A haunted turret that whispers when it fires."
+    size: 2
+    health: 180
+    reload: 30
+    range: 120
+    inaccuracy: 2
+    rotateSpeed: 10
+    shootSound: "insanity-whisper"
+    requirements: [
+      [copper, 40]
+      [lead, 30]
+    ]
+    ammo: {
+      copper: bullet
+    }
+  }
+]
