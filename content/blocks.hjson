@@ -14,7 +14,7 @@
       [lead, 30]
     ]
     ammo: {
-      copper: bullet
+      copper: basic
     }
   }
 ]
