@@ -1,12 +1,6 @@
 [
   {
-    name: "insanity-whisper"
+    name: "test_sound"
     type: sound
-    path: "whisper.ogg"
-  },
-  {
-    name: "insanity-scream"
-    type: sound
-    path: "scream.ogg"
+    path: "test_sound.mp3"
   }
-]
