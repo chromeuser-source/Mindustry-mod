@@ -17,7 +17,7 @@
     ammo: [
       [copper, basic]
     ],
-    research: "duo", // Unlock after researching the 'duo' turret
+    research: "duo",
     category: "turrets"
   }
 ]
