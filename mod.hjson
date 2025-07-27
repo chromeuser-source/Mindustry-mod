@@ -1,5 +1,5 @@
 name: "Do not use"
 author: "unknown"
 version: "1.0"
-description: "Do not use it is most likely not functional and may or may not crash your game depending on how bad I code this."
-minGameVersion: 149
+description: "Do not use it is most likely not functional and may or may not crash your game depending on how bad I code this. also this is meant for a beta version."
+minGameVersion: 150
