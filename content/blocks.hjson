@@ -1,22 +1,23 @@
 [
   {
-    name: "test_turret"
-    type: turret
-    description: "test"
-    size: 2
-    health: 180
-    reload: 30
-    range: 120
-    inaccuracy: 2
-    rotateSpeed: 10
-    shootSound: "test_sound"
+    name: "test_turret",
+    type: "turret",
+    description: "A basic test turret.",
+    size: 2,
+    health: 180,
+    reload: 30,
+    range: 120,
+    inaccuracy: 0,
+    rotateSpeed: 10,
+    shootSound: "test_sound",
     requirements: [
-      [copper, 40]
+      [copper, 40],
       [lead, 30]
-    ]
-    ammo: {
-      copper: basic
-    }
-    category: turrets
+    ],
+    ammo: [
+      [copper, basic]
+    ],
+    research: "duo", // Unlock after researching the 'duo' turret
+    category: "turrets"
   }
 ]
